@@ -1,11 +1,7 @@
 ### Olá! eu sou o pierre souza 👋
   <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="pierresouza"/>  
    
-- 🌱 no momento estou estudando para ser um dev fullstack.
-- 📫 contate-me no email: pierre.s3@hotmail.com
-- 😄 infos: 22 anos/ taurino
-- ⚡ fato curioso: eu já consegui fazer um trabalho de curso e zerar dark souls 1 ao mesmo tempo 
-  
+- 🌱 no momento estou estudando para ser um dev fullstack. 
 <div>
   <a href="https://github.com/pierresouza">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
