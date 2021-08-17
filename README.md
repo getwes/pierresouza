@@ -1,5 +1,5 @@
 ### Olá! eu sou o pierre souza 👋
-  <img src="https://komarev.com/ghpvc/?username=SEUUSUARIO&color=green" alt="pierresouza"/>  
+  <img src="https://komarev.com/ghpvc/?username=pierresouza&color=green" alt="pierresouza"/>  
    
 - 🌱 no momento estou estudando para ser um dev fullstack. 
 <div>
